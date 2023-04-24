@@ -19,6 +19,6 @@
 
 ## 💻 Model :
 
-<img src="/images/fonctional_model.jpg" alt="fonctional_model">
+<img src="/images/fonctional_model.png" alt="fonctional_model">
 </br>
 
